@@ -1,3 +1,3 @@
-# Xinchuan Fan's Github Pages Blog
+# Xinchuan Fan's fast.ai Blog
 
-This is the repository for Xinchuan's blog! This blog uses Jeckll to create the static pages.
+This is the repository for Xinchuan's fastai blog! This blog uses Jeckll to create the static pages.
