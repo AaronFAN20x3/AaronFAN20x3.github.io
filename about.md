@@ -16,4 +16,4 @@ E-mail: xinchuan.fan@uqconnect.edu.au
 
 www.linkedin.com/in/aaron-fan-635201215
 
-![Image of Xinchuan Fan](images/That_is_Xinchuan.jpg)
+![Image of Xinchuan Fan](images/That_is_Xinchuan_Resize.jpg)
